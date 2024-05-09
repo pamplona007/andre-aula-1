@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+#perfil {
+    height: 300px;
+    border-radius: 150px;
+}
